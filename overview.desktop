@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=skippy-xd
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name=Overview
+Comment=Executes the Skippy XD window picker daemon.
+Icon=/usr/share/icons/Yaru-MATE-dark/256x256/actions/blueman-plugin.png
