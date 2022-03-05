@@ -29,3 +29,7 @@ Icon=/usr/share/icons/Yaru-MATE-dark/256x256/actions/blueman-plugin.png
 ```
 4. Drag desktop shortcut into your panel.
 5. Optionally, assign a keyboard shortcut such as SUPER-Z to `skippy-xd`
+
+### Why?
+
+The information available to do this is non-trivial, so I've simplified it here for my own reference as well as anyone else who wants to benefit from an Expose / Mission Control UX in MATE.
