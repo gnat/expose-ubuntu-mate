@@ -1,16 +1,16 @@
-# Easy setup for Overview Screen for Ubuntu MATE 22.04
+# Exposé Overview Screen for Ubuntu MATE 22.04
 
-Enables "overview screen" or "window picker" function.
+Enables "overview screen" or "window picker" function. Similar to:
+
+* Apple MacOS X Exposé or Mission Control.
+* KDE Overview.
+* GNOME Activities.
 
 ![screenshot](https://github.com/gnat/expose-ubuntu-mate/blob/main/screenshot.png)
 
-Similar to:
+### Quick and Easy Setup
 
-* Apple Exposé or Mission Control.
-* KDE Overview.
-* Gnome Activities.
-
-### Setup
+Requires Skippy XD, while works, is non-trivial to find installation support for, since it is unmaintained.
 
 1. Get a recent build of libjpeg62-turbo: https://packages.debian.org/sid/amd64/libjpeg62-turbo/download
 2. Get a recent build of Skippy XD: http://mxrepo.com/mx/testrepo/pool/test/s/skippy-xd/skippy-xd_0.5.1~git20160429~mx19_amd64.deb
