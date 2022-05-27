@@ -12,9 +12,9 @@ Enables "overview screen" or "window picker" function. Similar to:
 
 Requires Skippy XD, while works, is unmaintained and can be difficult to find and install.
 
-1. Get a recent build of libjpeg62-turbo: https://github.com/gnat/expose-ubuntu-mate/raw/main/deb/libjpeg62-turbo_2.1.2-1_amd64.deb or [mirror](https://packages.debian.org/sid/amd64/libjpeg62-turbo/download)
+1. Get a recent build of libjpeg62-turbo: [from github](https://github.com/gnat/expose-ubuntu-mate/raw/main/deb/libjpeg62-turbo_2.1.2-1_amd64.deb) or [mirror](https://packages.debian.org/sid/amd64/libjpeg62-turbo/download)
 
-2. Get a recent build of Skippy XD: https://github.com/gnat/expose-ubuntu-mate/raw/main/deb/skippy-xd_0.5.1_amd64.deb or [mirror](http://mxrepo.com/mx/testrepo/pool/test/s/skippy-xd/skippy-xd_0.5.1~git20160429~mx19_amd64.deb)
+2. Get a recent build of Skippy XD: [from github](https://github.com/gnat/expose-ubuntu-mate/raw/main/deb/skippy-xd_0.5.1_amd64.deb) or [mirror](http://mxrepo.com/mx/testrepo/pool/test/s/skippy-xd/skippy-xd_0.5.1~git20160429~mx19_amd64.deb)
 
 3. Create a file called `overview.desktop` containing the following.
 
