@@ -30,7 +30,7 @@ Comment=Executes the Skippy XD window picker daemon.
 Icon=/usr/share/icons/Yaru-MATE-dark/256x256/actions/blueman-plugin.png
 ```
 4. Drag `overview.desktop` wherever you desire a clickable button, such as into your MATE panel.
-5. Optionally, assign a keyboard shortcut to run `skippy-xd` such as SUPER-Z
+5. Optionally, assign a keyboard shortcut to run `skippy-xd` such as SUPER-Z (can be done in the control panel).
 
 ### Why?
 
